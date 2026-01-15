@@ -47,16 +47,16 @@ root
 
 ## 🖼 Demo Screenshots
 ### Sign In — PC
-![Sign In Dark](./Screenshots/Sign In Demo PC.png)
+![Sign In PC](./Screenshots/Sign In Demo PC.png)
 
 ### Register — PC
-![Register Light](./Screenshots/Register Demo PC.png)
+![Register PC(./Screenshots/Register Demo PC.png)
 
 ### Sign In — Mobile
-![Sign In Dark](./Screenshots/Sign In Demo Mobile.png)
+![Sign In Mobile(./Screenshots/Sign In Demo Mobile.png)
 
 ### Register — Mobile
-![Register Light](./Screenshots/Register Demo Mobile.png)
+![Register Mobile](./Screenshots/Register Demo Mobile.png)
 
 ---
 
