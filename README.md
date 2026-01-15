@@ -50,11 +50,17 @@ root
 Place your screenshots in `/screens/` and embed them here.
 
 ```markdown
-### 🌙 Sign In — Dark Mode
-![Sign In Dark](./screens/sign-in-dark.png)
+### Sign In — PC
+![Sign In Dark](./Screenshots/Sign In Demo PC.png)
 
-### ☀️ Register — Light Mode
-![Register Light](./screens/register-light.png)
+### Register — PC
+![Register Light](./Screenshots/Register Demo PC.png)
+
+### Sign In — Mobile
+![Sign In Dark](./Screenshots/Sign In Demo Mobile.png)
+
+### Register — Mobile
+![Register Light](./Screenshots/Register Demo Mobile.png)
 ```
 
 ---
