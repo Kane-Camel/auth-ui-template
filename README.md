@@ -47,7 +47,7 @@ root
 
 ## 🖼 Demo Screenshots
 ### Sign In — PC
-![Sign In PC](./Screenshots/Sign In Demo PC.png)
+![Sign In PC](.Sign In Demo PC.png)
 
 ### Register — PC
 ![Register PC(./Screenshots/Register Demo PC.png)
