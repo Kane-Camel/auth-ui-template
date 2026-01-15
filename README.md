@@ -46,10 +46,6 @@ root
 ---
 
 ## 🖼 Demo Screenshots
-
-Place your screenshots in `/screens/` and embed them here.
-
-```markdown
 ### Sign In — PC
 ![Sign In Dark](./Screenshots/Sign In Demo PC.png)
 
@@ -61,7 +57,6 @@ Place your screenshots in `/screens/` and embed them here.
 
 ### Register — Mobile
 ![Register Light](./Screenshots/Register Demo Mobile.png)
-```
 
 ---
 
